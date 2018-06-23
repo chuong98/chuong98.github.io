@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Chuong Nguyen"
 title_separator          : "-"
 name                     : "Chuong Nguyen"
 description              : "Machine Learning Portfolio"
