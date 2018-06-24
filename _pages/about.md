@@ -5,4 +5,7 @@ header:
   image: "/images/BB-lover.jpg"
 ---
 
-I am making my first GitHub pages, because it is awesome
+I am a robotics engineer with backgrounds from Mechanical design, Adaptive Control, Computer Vision and Machine Learning.
+I am also a Dog & Cat lover and a photographer.
+
+Hope you enjoy my post and the pictures :)
